@@ -1,0 +1,59 @@
+{
+  "notices": [
+    {
+      "id": 1,
+      "title": "Mid-semester examination schedule released",
+      "category": "Examinations",
+      "date": "Today",
+      "body": "Check your department portal for the updated examination timetable.",
+      "important": true
+    },
+    {
+      "id": 2,
+      "title": "Innovation & Entrepreneurship Week",
+      "category": "Events",
+      "date": "Yesterday",
+      "body": "Registrations are open for workshops, mentor sessions and the project showcase.",
+      "important": false
+    },
+    {
+      "id": 3,
+      "title": "Library hours extended this week",
+      "category": "Facilities",
+      "date": "Nov 8",
+      "body": "The central library will remain open until 9:00 PM during preparation week.",
+      "important": false
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Campus Innovation Fest",
+      "date": "Nov 14, 2026",
+      "time": "10:00 AM",
+      "place": "Main Auditorium",
+      "tag": "Technology",
+      "spots": 42
+    },
+    {
+      "id": 2,
+      "title": "Design Thinking Workshop",
+      "date": "Nov 16, 2026",
+      "time": "11:30 AM",
+      "place": "Innovation Lab",
+      "tag": "Workshop",
+      "spots": 18
+    },
+    {
+      "id": 3,
+      "title": "Inter-Department Sports Meet",
+      "date": "Nov 20, 2026",
+      "time": "9:00 AM",
+      "place": "Sports Ground",
+      "tag": "Sports",
+      "spots": 76
+    }
+  ],
+  "tickets": [],
+  "lostFound": []
+}
